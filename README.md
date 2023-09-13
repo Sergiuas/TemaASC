@@ -1,2 +1,2 @@
-# TemaASC
-Tema Arhitectura Sistemelor de Calcul
+
+# Tema Arhitectura Sistemelor de Calcul
